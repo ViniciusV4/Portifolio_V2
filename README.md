@@ -1,7 +1,7 @@
-# Portifolio Marcos 
+# Portifólio Marcos 
 <ul>
-    <li>Meu portfólio reflete a minha jornada e experiência, contendo alguns projetos que vão desde sites elegantes, responsivos e cheias de recursos. Trabalho incansavelmente para unir design atraente e funcionalidade intuitiva, sempre com foco no usuário final.</li>
-    <li>My portfolio reflects my journey and experience, containing some projects ranging from elegant, responsive and feature-rich websites. I work tirelessly to combine attractive design and intuitive functionality, always focusing on the end user.</li>
+    <li>Meu portfólio reflete a minha jornada e experiência, contendo alguns projetos que vão desde sites elegantes, responsivos e cheias de recursos. Trabalho incansavelmente para unir design atraente e funcionalidade intuitiva, sempre com foco no usuário final. Este portifólio foi desenvolvido apenas para estudo. Meu portifólio profissional está em desenolvimento.</li>
+    <li> My portfolio reflects my journey and experience, containing some projects ranging from elegant, responsive and feature-rich websites. I work tirelessly to combine attractive design and intuitive functionality, always focusing on the end user. This portfolio was developed for study purposes only. My professional portfolio is developing.</li>
 </ul>
  
 ## Home Page:
